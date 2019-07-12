@@ -2,6 +2,10 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+## Eventos locales
+
+* [Agenda del Parque Científico Tecnológico de Córdoba Rabanales 21](https://www.facebook.com/rabanales21/events/)
+
 ## Eventos anuales
 
 Lista de eventos que se celebran todos los años en Córdoba y de los que puedes ir preparándote para participar como ponente:
