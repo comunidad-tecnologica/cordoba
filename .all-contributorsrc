@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "aartiles",
+      "name": "Alfredo Artiles",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/92608?v=4",
+      "profile": "http://www.audiense.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "cordoba",
+  "projectOwner": "comunidad-tecnologica",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
