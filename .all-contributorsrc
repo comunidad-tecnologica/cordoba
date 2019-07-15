@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "aartiles",
+      "name": "Alfredo Artiles",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/92608?v=4",
+      "profile": "http://www.audiense.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
